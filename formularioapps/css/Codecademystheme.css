@@ -1,0 +1,668 @@
+body {
+	margin: 0 auto;
+	background-position: center top;
+	background-color: #ECECEC;
+	background-repeat: no-repeat;
+}
+
+
+.menu{
+	height: 85px;
+
+	border-color: #5C2078;
+	border-bottom-color: #340C4C;
+	background-position: 0 50%;
+	background-image: none;
+	background-color: #5C2078;
+	
+}
+
+.cuerpo {
+	position: relative;
+	margin: 0 auto;
+	width: 1088px;
+}
+
+.cuerpoSub{
+	width: 100%;
+	height: 400px;
+}
+
+
+.rich-calendar-input {
+	font-size: 12px;
+	width: 55px;
+	padding-left: 1px;
+}
+
+
+.contenedor1 {
+	float: left;
+	font-family:sans-serif;
+	font-style:normal;
+	font-size:12pt;
+	color:#666666;
+	height: 240px;
+	margin: 20px 166px 0px 166px;
+	width: 721px;
+}
+
+.contenedor1Sub {
+	background-color:#FFF;
+	font-family:sans-serif;
+	font-style:normal;
+	font-size:12pt;
+	color:#666666;
+	height: 45px;
+	width: 100%;
+}
+
+.contenedor3Sub {
+	height: 50px;
+	width: 100%;
+}
+
+.contenedor2Sub{
+	background-color:#F2F2F2;
+	border: 10px solid #FFF;
+	font-family:sans-serif;
+	font-style:normal;
+	font-size:12pt;
+	color:#666666;
+	height: 45px;
+	width: 90%;
+	margin:20px auto;
+	height: 350px;
+	padding: 10px 30px;
+}
+
+.unoIzquierdo{
+	float: left;
+	margin-top: 34px;
+	height: 100%;	
+	width: 132px;
+}
+
+ul{
+	list-style: none;	
+	margin: 20px 0;
+	
+}
+
+li{
+	list-style: none;		
+	float: left;
+	margin: 0 3px;
+	vertical-align: bottom;
+}
+	
+	
+.botones{
+	width: 100%;
+	height: 70px;
+	float: left;
+	margin: 38px 0;
+	
+}
+
+.unoDerecho{
+	float: left;
+	height: 100%;	
+	width: 390px;	
+	background-image:url(../img/fondo_botones.png); 
+	background-position: center top;	
+	background-repeat: no-repeat;
+}
+
+.video{
+	margin-top: 23px;
+	margin-left: 59px;
+}
+
+.labelDiv{
+	
+	font-weight: bold;
+	float: left;
+	padding: 5px;
+	margin-top: 3px;
+	clear: left;
+	font-size: 18px;
+}
+
+.contenedor2{	
+	float: left;
+	margin: 0px 200px;
+	width: 100%px;	
+	font-family:sans-serif;
+	font-style:normal;
+	font-size:10pt;
+	display:block;
+}
+
+
+.contenedor3{	
+	display:block;
+	float: left;
+	height: 100px;	
+	width: 100%;
+	
+}
+
+.tresIzquiero{	
+	width: 30%;
+	float: left;
+	
+}
+
+.tresCentral{	
+width: 30%;
+float: left;
+padding-left: 70px;
+}
+
+.tresDerecho{	
+	width: 30%;
+	float: left;
+	padding-left: 38px;
+}
+
+.boton1{ 
+position: relative;
+left: 236px;
+top: 5px;
+}
+
+.botonV{
+	display:inline;
+	position: relative;
+	left: 60px;
+	top: 5px;
+}
+
+.botonVsub{
+	margin: 180px 0 0 0;
+	float:right;
+}
+
+.name {
+vertical-align: top;
+font-weight: bold;
+font-size: small;
+width: 115px;
+float: left;
+padding: 5px;
+margin-top: 3px;
+clear: left;
+}
+
+#datosUsuarios{
+	
+	margin:0 auto;
+	
+}
+
+.inner{
+	margin: 0 auto;
+	height: auto;
+	align:center;
+	width: 100%;	
+}
+
+tr{
+	width:100%;
+}
+
+.valueValue {
+	float: right;
+	padding: 15 90px;
+}
+
+
+
+.campo {
+	vertical-align: top;
+	font-weight: bold;
+	float: left;
+	padding: 5px;
+	margin-top: 3px;
+	clear: left;
+	font-size: 18px;
+	
+}
+
+.caja{
+	vertical-align: top;
+	font-weight: bold;
+	width: 100%;
+	padding: 5px;
+	margin-top: 3px;
+	clear: left;
+	font-size: 18px;
+	
+}
+
+.apps{
+	font-family:  Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color:white;
+	margin-left: 200px;
+}
+
+.rich-ddmenu-label-select{
+	text-decoration: none;
+}
+	
+
+.dr-toolbar-int{
+	font-size: 16px;
+	color: white;
+	font-weight: bold;	
+	font-family:  Helvetica, sans-serif;	
+	padding: 1px 30px 2px 0px;
+	white-space: nowrap;
+}
+
+.rich-toolbar a:hover{
+	font-size: 16px;
+	text-decoration: none;
+	color: gray;
+	}
+
+
+.cabezote {
+	font-size: 12px;
+	margin: 0px;
+	
+}
+
+.formulario{
+	align:center;
+	width:50%;
+	margin: auto;
+	
+}
+
+input[type="submit"], input[type="button"] {
+	padding: 6px 8px;
+	border:none;
+	border-radius: 10px;
+	background-color:#7D4199;
+	background-position: 0 50%;
+	color: white;
+	font-size:18px;
+	font-weight: bold;
+}
+
+.rich-table-subheadercell {
+	
+	background-position: 0 50%;
+	color: white;
+}
+
+.rich-mpnl-header {
+	color: white;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	border-color: #ADADAD;
+	filter: alpha(opacity=90);
+	opacity: .9;
+	background-position: 0 50%;
+	
+	padding: 6px 6px 6px 14px;
+}
+
+.rich-panel-body {
+	padding: 10px 10px 10px 14px;
+	background-position: 0 -490px;
+	background-repeat: repeat-x;
+	border: 1px solid;
+	border-radius : 5px;
+	box-shadow: 5px 5px 15px #CCCCCC;
+}
+
+.rich-panel{
+	
+	border:none;
+	background-color:none; 
+	background-image: none;
+	
+	}
+
+.formulario2{
+	align:center;
+	width:60%;
+}
+
+a:active, a:link, a:visited {
+	color: #ACACAC;
+}
+
+.rich-panel-header {
+color: white;
+border-top: 0;
+border-right: 0;
+border-left: 0;
+border-color: #000000;
+background-position: 0 50%;
+border-radius : 5px;
+
+padding: 6px 6px 6px 14px;
+}
+
+.dr-pnl-h {
+background-color: #000000;
+border-color: 000000;
+font-size: 11px;
+color: white;
+font-weight: bold;
+font-family: Arial,Verdana,sans-serif;
+}
+
+
+.activa{
+position: absolute;
+z-index: 100;
+left: 900px;
+top: 566px;
+
+}
+
+.pie {
+	background-color:white;
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	margin: 20px 0 0 0px;
+	height: 93px;
+	float: left;
+	text-align:center;
+	border-top:10px solid #5E1F78;
+}
+
+.pieTest{
+	background-color:white;
+	margin: 0 auto;
+	width: 100%;
+	height: 93px;
+	text-align:center;
+	border-top:10px solid #5E1F78;
+}
+
+.rich-stglpanel-header {
+	padding: 6px 6px 6px 14px;
+	border: 0;
+	white-space: nowrap;
+	background-position: 0 50%;
+	
+}
+
+.dr-stglpnl-h {
+	background-color: #000000;
+	border-color: #000000;
+	font-size: 11px;
+	color: white;
+	font-weight: bold;
+	background-position: 0 50%;
+	font-family: Arial,Verdana,sans-serif;
+}
+
+.contenido {
+	font-size: 12px;
+	margin: 0px;
+	background-repeat: repeat-x;	
+	margin-bottom: 50px;
+	height: auto;
+	align:center;
+}
+
+
+a img {
+	border: none;
+}
+
+h1 {
+	color:#F7921E;
+	font-size: 1.6em;
+	margin-top: 20px 0 20px 0;
+	font-family:  Helvetica, sans-serif; 
+}
+
+.hnea {
+	color:#F7921E;
+	font-size: 1.6em;
+	margin-top: 20px 0 20px 0;
+	font-family:  Helvetica, sans-serif; 
+	text-align:center;
+}
+
+.hnea2 {
+	color:#F7921E;
+	font-size: 1.6em;
+	font-family:  Helvetica, sans-serif; 
+	text-align:center;
+}
+
+input[type=submit], input[type=button] {
+	margin: 5px 5px 5px 0;
+	cursor: pointer;
+}
+
+input[type=text], input[type=password], textarea {
+	font-size: 12px;
+	padding-left: 1px;
+}
+
+select {
+	font-size: 13px;
+}
+
+.tableControl, .actionButtons {
+	width: 100%;
+}
+
+.tableControl a {
+	padding-left: 10px;
+}
+
+.tableControl {
+	text-align: right;
+}
+
+.footer {
+	text-align: center;
+	font-size: 11px;
+	margin-bottom: 10px;
+}
+
+.rich-table {
+	width: 100%;
+}
+
+.body {
+	padding: 30px;
+}
+.message {
+	padding: 5px;
+	list-style: none;
+	border: 0;
+	background: none;
+	padding: 0;
+	color: #000000;
+	margin: 5px 0 8px 0;
+	font-size: 12px;
+}
+
+.message li {
+	background: no-repeat left center;
+	padding-top: 1px;
+	padding-left: 20px;
+	margin-left: 3px;
+}
+
+.message li.infomsg {
+}
+
+.message li.errormsg {
+}
+
+.message li.warnmsg {
+}
+
+
+
+.value {
+	float: left;
+	padding: 5px;
+}
+
+.error {
+	float: left;
+	padding: 5px;
+}
+
+.errors {
+	color: #FF0000;
+	vertical-align: middle;
+}
+
+img.errors {
+	padding-right: 5px;
+}
+
+.errors input, .errors textarea, .errors select {
+	border: 1px solid red !important;
+}
+
+.required {
+	color: #FF0000;
+	padding-left: 2px;
+}
+
+.rich-stglpanel-body {
+	overflow: auto;
+} 
+
+/* the specificity here is necessary to override the defaults */
+/*
+.rich-panel .rich-panel-header,
+.rich-stglpanel .rich-stglpanel-header {
+	padding: 2px 3px;
+}*/
+
+.rich-panel input[type=submit], .rich-panel input[type=button],
+.rich-tabpanel input[type=submit], .rich-tabpanel input[type=button] {
+	margin-bottom: 0;
+}
+
+.tableControl input[type=submit], .tableControl input[type=button], .tableControl select {
+	margin: 5px 0 5px 5px;
+}
+
+/* I don't know why this is necessary, but the select is off by a pixel on the top and is padding too much on the left */
+.tableControl select {
+	margin-left: 2px;
+	position: relative;
+	top: 1px;
+}
+
+.actionButtons {
+	padding-left: 1px;
+}
+
+.actionButtons select {
+	margin: 5px 5px 5px 0;
+	vertical-align: bottom;
+}
+
+.apps{
+	font-family:  Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 0 30px;
+}
+
+.rich-toolbar{
+	height: 80px;
+	padding: 0 5px 0 5px;
+	border-color: #5C2078;
+	border-bottom-color: #340C4C;
+	background-position: 0 50%;
+	background-image: none;
+	background-color: #5C2078;
+}
+
+.rich-toolbar-item a {
+	text-decoration: none;
+}
+
+.rich-toolbar-item a:hover, .rich-ddmenu-label-select {
+	text-decoration: underline;
+}
+
+.rich-toolbar-item .rich-menu-item a:hover {
+	text-decoration: none;
+}
+
+.rich-datalist {
+	list-style: square;
+	margin: 6px 0 1px 0;
+	padding-left: 18px;
+}
+
+.rich-list-item {
+	padding-bottom: 4px;
+}
+
+div.info {
+	font-size: 1.2em;	
+}
+
+ul.bullets {
+	list-style: square;
+}
+
+ul.bullets li {
+	padding-bottom: 2px;
+}
+
+td.action {
+	text-align: center;
+	width: 8em;
+	white-space: nowrap;
+}
+
+td.action a {
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+table.radio {
+   border: 0;
+}
+
+table.radio td {
+   padding: 0 2px;
+}
+
+table.radio input[type=radio] {
+   vertical-align: bottom;
+}
+
+
+.ancho1{
+	display:inline;
+}
+
+.ancho2{
+	width:100%;
+}
+
+.ancho3{
+	width:20px;
+}
+
+.siguiente{
+	background-image:url(btn_sig.png);
+}
